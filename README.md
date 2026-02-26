@@ -56,4 +56,4 @@ Asimov is a complete bipedal leg for humanoid robots, built with off-the-shelf c
 ## Support the project
 Asimov is Menlo Research's open-source humanoid robot:
 - If you want to support development: [asimov.inc/early](https://asimov.inc/early)
-- For partnerships: hello@menlo.ai
+- For partnerships: hello@menlo.ai..
